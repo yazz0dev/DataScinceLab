@@ -1,4 +1,4 @@
-# program 3: singular value decomposition using numpy
+# program 2: singular value decomposition using numpy
 
 import numpy as np
 
